@@ -1,8 +1,6 @@
 name: Daily Yuyu-tei price scan
 
 on:
-  schedule:
-    - cron: "0 1 * * *"      # 01:00 UTC = 08:00 Bangkok = 10:00 Japan (GitHub may delay up to ~1 hour)
   workflow_dispatch: {}       # lets you press "Run workflow" manually
 
 permissions:
