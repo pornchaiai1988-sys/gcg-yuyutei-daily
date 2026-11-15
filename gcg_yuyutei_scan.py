@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-GCG VAULT - Yuyu-tei daily price scanner (runs on YOUR PC, needs internet).
+GCG VAULT - Yuyu-tei daily price scanner.
 
 What it does
   1. Reads source_registry.csv (the 30 category pages) and downloads each page
@@ -16,12 +16,14 @@ ACCESS_BLOCKED and moves on.
 Usage
   pip install requests beautifulsoup4
   python gcg_yuyutei_scan.py                      # scan all enabled categories
+  python gcg_yuyutei_scan.py --latest data/latest.csv  # publish current prices and save price history
   python gcg_yuyutei_scan.py --only GD06 ST01     # scan only some set keys
   python gcg_yuyutei_scan.py --run-master         # scan, then update the ledger
   python gcg_yuyutei_scan.py --save-html          # keep raw HTML in ./html_dump (for debugging)
 """
 import argparse, csv, datetime as dt, re, subprocess, sys, time, urllib.parse, urllib.robotparser
 from pathlib import Path
+from tempfile import NamedTemporaryFile
 
 try:
     import requests
@@ -35,6 +37,8 @@ UA = "GCG-VAULT-PriceResearch/1.0 (personal research; polite, rate-limited)"
 SCAN_FIELDS = ["source_url", "price_jpy", "stock_text", "source_set", "card_number", "rarity",
                "name_jp", "observed_at_bangkok", "live_verified", "source_cache_date",
                "discovery_listing_url", "evidence_url"]
+PRICE_HISTORY_FIELDS = ["observed_at_bangkok", "source_url", "card_number", "rarity",
+                        "source_set", "name_jp", "price_jpy", "stock_text"]
 RARITIES = ["LR++", "LR+", "LR", "R+", "R", "U+", "U", "C++", "C+", "C", "SP", "LK", "P"]
 RAR_RE = "|".join(re.escape(r) for r in sorted(RARITIES, key=len, reverse=True))
 CARD_HREF = re.compile(r"/sell/gcg/card/([^/]+)/(\d+)")
@@ -151,6 +155,40 @@ def parse_page(html, listing_url, source_set):
     return rows, next_pages, set_slugs
 
 
+def write_price_history(latest_path, rows, stamp):
+    """Archive verified observations from this scan, retaining earlier points."""
+    observations = {
+        (stamp, row["source_url"]): row for row in rows
+        if row.get("observed_at_bangkok") == stamp and row.get("live_verified") == "TRUE"
+    }
+    if not observations:
+        return None
+
+    archive = latest_path.parent / "history" / f"prices_{stamp[:10]}.csv"
+    history = {}
+    if archive.exists():
+        with archive.open(encoding="utf-8-sig", newline="") as f:
+            history = {(row["observed_at_bangkok"], row["source_url"]): row for row in csv.DictReader(f)}
+        if observations.keys() <= history.keys():
+            return archive
+    for key, row in observations.items():
+        history.setdefault(key, row)
+
+    archive.parent.mkdir(parents=True, exist_ok=True)
+    staged = NamedTemporaryFile(mode="w", dir=archive.parent, suffix=".tmp",
+                                encoding="utf-8-sig", newline="", delete=False)
+    temp_path = Path(staged.name)
+    try:
+        with staged as f:
+            writer = csv.DictWriter(f, fieldnames=PRICE_HISTORY_FIELDS, extrasaction="ignore")
+            writer.writeheader()
+            writer.writerows(history[key] for key in sorted(history))
+        temp_path.replace(archive)
+    finally:
+        temp_path.unlink(missing_ok=True)
+    return archive
+
+
 def write_latest(latest_path, scanned_rows, scan_status, stamp):
     """Publish complete categories and keep the last prices for the others."""
     latest_path.parent.mkdir(parents=True, exist_ok=True)
@@ -164,6 +202,7 @@ def write_latest(latest_path, scanned_rows, scan_status, stamp):
     for row in scanned_rows:
         if row["source_set"] in complete_sets:
             current.setdefault(row["source_url"], row)
+    history_path = write_price_history(latest_path, current.values(), stamp)
     carried = {u: p for u, p in prev.items() if p["source_set"] not in complete_sets and u not in current}
     carried_sets = {r["source_set"] for r in carried.values()}
     changes = []
@@ -204,6 +243,8 @@ def write_latest(latest_path, scanned_rows, scan_status, stamp):
             w.writerows(current.values())
             w.writerows(carried.values())
     print(f"Latest -> {latest_path}   changes -> {ch_path}  (changed={len(changes)}, not_seen={len(removed)})")
+    if history_path:
+        print(f"Price history -> {history_path}")
 
 
 def main():
@@ -214,7 +255,7 @@ def main():
     ap.add_argument("--outdir", default=".")
     ap.add_argument("--save-html", action="store_true")
     ap.add_argument("--run-master", action="store_true")
-    ap.add_argument("--latest", help="also write this file (e.g. data/latest.csv) and changes_latest.csv next to it, compared with the previous latest")
+    ap.add_argument("--latest", help="write latest prices, changes from the previous snapshot, and daily price history")
     ap.add_argument("--master", default="price_master_history.csv")
     args = ap.parse_args()
 

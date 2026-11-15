@@ -5,3 +5,4 @@
 - [คู่มือภาษาไทย](README_TH.md)
 - [การเปลี่ยนแปลงล่าสุด](data/changes_latest.csv)
 - [สถานะการสแกน](data/scan_report_latest.csv)
+- [ประวัติราคาสำหรับทำกราฟ](data/history)
