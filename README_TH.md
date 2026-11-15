@@ -11,23 +11,15 @@
 | `data/scan_report_latest.csv` | สถานะแต่ละหมวด (OK หรือเหตุผลที่ไม่ OK) |
 | `data/history/changes_YYYY-MM-DD.csv` | ประวัติการเปลี่ยนแปลงรายวัน |
 
-## ตั้งค่า GitHub Actions สำหรับทดสอบด้วยตนเอง
-1. สมัคร GitHub (ฟรี) แล้วสร้าง repository ใหม่ ชื่ออะไรก็ได้ เช่น `gcg-yuyutei-daily` เลือก **Public**
-   (ถ้าเลือก Private ChatGPT จะเปิดลิงก์ไฟล์ไม่ได้ เนื้อหาเป็นราคาสาธารณะอยู่แล้ว)
-2. อัปโหลดไฟล์และโฟลเดอร์ทั้งหมดในแพ็กเกจนี้ขึ้น repo (รวมโฟลเดอร์ `.github/workflows`)
-   - ถ้าอัปโหลดผ่านเว็บแล้วไม่เห็นโฟลเดอร์ที่ขึ้นต้นด้วยจุด ให้ใช้ GitHub Desktop หรือสร้างไฟล์ `.github/workflows/daily-scan.yml` เองในเว็บแล้ววางเนื้อหาลงไป
-3. เข้าแท็บ **Settings > Actions > General > Workflow permissions** เลือก **Read and write permissions** แล้วกด Save
-4. เข้าแท็บ **Actions** เลือก "Daily Yuyu-tei price scan" แล้วกด **Run workflow** เพื่อทดสอบรอบแรก
-   (ใช้เวลาราว 2–5 นาที: ~30 หมวด หน่วงหน้าละ 3 วินาที)
-5. เมื่อรันเสร็จ จะมีไฟล์ใน `data/` ลิงก์อ่านตรงคือ
-   `https://raw.githubusercontent.com/pornchaiai1988-sys/gcg-yuyutei-daily/main/data/latest.csv`
+## ลิงก์ CSV
+
+[ราคาและสต็อกล่าสุด](https://raw.githubusercontent.com/pornchaiai1988-sys/gcg-yuyutei-daily/main/data/latest.csv)
 
 ## ใช้กับ ChatGPT
 ข้อความสำหรับรายงานอยู่ใน `CHATGPT_PROMPT_TH.md`
 
 ## สิ่งที่ต้องรู้ (อย่าข้ามส่วนนี้)
 - หากหมวดขึ้น `PARSED_ZERO_ROWS` ให้ตรวจหน้าขายของหมวดนั้นและผลใน `data/scan_report_latest.csv` ก่อนใช้ข้อมูลเปรียบเทียบ
-- การทดสอบสแกนจาก GitHub Actions พบ `ACCESS_BLOCKED_403` ทั้ง 30 หมวด ตัวสแกนบันทึกสถานะนี้และเก็บราคาที่เคยดึงได้ของหมวดนั้นไว้
 - `changes_latest.csv` และ `scan_report_latest.csv` มี `observed_at_bangkok` ของรอบสแกนเดียวกัน แถว `PRICE` มีราคาก่อนและหลังใน `old` และ `new` พร้อมสต็อกล่าสุดใน `stock_text`
 - `INITIAL_SNAPSHOT` คือรอบที่เก็บข้อมูลตั้งต้นเพื่อใช้เปรียบเทียบ `NO_CHANGES` คือรอบที่สแกนครบและไม่มีรายการเปลี่ยนแปลง
 - ถ้าหมวดใดล้มเหลว ข้อมูลราคาของหมวดนั้นยังเป็นรอบล่าสุดที่สแกนครบ `changes_latest.csv` ระบุ `CATEGORY_FAILED_KEPT_OLD_ROWS` เมื่อเก็บแถวเดิมไว้ และ `CATEGORY_FAILED_NO_OLD_ROWS` เมื่อยังไม่มีข้อมูลเดิม
