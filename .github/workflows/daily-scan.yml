@@ -1,0 +1,51 @@
+name: Daily Yuyu-tei price scan
+
+on:
+  schedule:
+    - cron: "0 1 * * *"      # 01:00 UTC = 08:00 Bangkok = 10:00 Japan (GitHub may delay up to ~1 hour)
+  workflow_dispatch: {}       # lets you press "Run workflow" manually
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Scan all enabled categories (3 s delay per page, robots.txt respected)
+        run: python gcg_yuyutei_scan.py --outdir work --latest data/latest.csv
+
+      - name: Keep small history files
+        run: |
+          mkdir -p data/history
+          report=(work/scan_report_*.csv)
+          scan_day="${report[0]#work/scan_report_}"
+          scan_day="${scan_day%.csv}"
+          cp data/changes_latest.csv "data/history/changes_${scan_day}.csv"
+          cp "${report[0]}" data/scan_report_latest.csv
+
+      - name: Commit results
+        run: |
+          git config user.name  "gcg-vault-bot"
+          git config user.email "gcg-vault-bot@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "No changes today."
+          else
+            git commit -m "Daily price scan $(TZ=Asia/Bangkok date +%F)"
+            git push
+          fi
