@@ -1,206 +1,110 @@
 ﻿change,source_set,card_number,rarity,name_jp,old,new,source_url,old_stock_text,stock_text,observed_at_bangkok
-PRICE,EB01,ST10-006,LR++,フェニックスガンダム（能力解放）（EX）(パラレル),39800,34800,https://yuyu-tei.jp/sell/gcg/card/eb01/10107,1 点,1 点,2026-11-17T08:01:37+07:00
-PRICE,EB01,EB01-001,LR+,ガンダムアストレイ レッドフレーム改（EX）(パラレル),780,680,https://yuyu-tei.jp/sell/gcg/card/eb01/10002,1 点,1 点,2026-11-17T08:01:37+07:00
-PRICE,EB01,EB01-002,LR+,Hi-νガンダム（EX）(パラレル),1480,1280,https://yuyu-tei.jp/sell/gcg/card/eb01/10004,8 点,8 点,2026-11-17T08:01:37+07:00
-STOCK,EB01,EB01-003,R+,ナラティブガンダムA装備（EX）(パラレル),5 点,6 点,https://yuyu-tei.jp/sell/gcg/card/eb01/10006,5 点,6 点,2026-11-17T08:01:37+07:00
-STOCK,EB01,EB01-044,R+,ジャスティスガンダム（EX）(パラレル),4 点,5 点,https://yuyu-tei.jp/sell/gcg/card/eb01/10058,4 点,5 点,2026-11-17T08:01:37+07:00
-PRICE,EB01,EB01-006,U+,ガンダムアストレイ ゴールドフレーム天(パラレル),580,500,https://yuyu-tei.jp/sell/gcg/card/eb01/10011,4 点,4 点,2026-11-17T08:01:37+07:00
-STOCK,EB01,EB01-032,C,ガンダムEz8 ハイモビリティカスタム,8 点,6 点,https://yuyu-tei.jp/sell/gcg/card/eb01/10042,8 点,6 点,2026-11-17T08:01:37+07:00
-PRICE,EB01,EB01-054,C,ギャプランTR-5［フライルー］1号機,320,220,https://yuyu-tei.jp/sell/gcg/card/eb01/10070,◯,◯,2026-11-17T08:01:37+07:00
-PRICE,EB01,EB01-056,C,ガンダムジェミナス01,180,120,https://yuyu-tei.jp/sell/gcg/card/eb01/10072,◯,◯,2026-11-17T08:01:37+07:00
-STOCK,GD01,GD01-023,LR,シャア専用ゲルググ,3 点,5 点,https://yuyu-tei.jp/sell/gcg/card/gd01/10029,3 点,5 点,2026-11-17T08:01:37+07:00
-STOCK,GD01,GD01-066,LR,ジャスティスガンダム,1 点,×,https://yuyu-tei.jp/sell/gcg/card/gd01/10083,1 点,×,2026-11-17T08:01:37+07:00
-STOCK,GD01,GD01-006,R+,デルタプラス(パラレル),1 点,×,https://yuyu-tei.jp/sell/gcg/card/gd01/10012,1 点,×,2026-11-17T08:01:37+07:00
-STOCK,GD01,GD01-029,R+,シェンロンガンダム(パラレル),×,1 点,https://yuyu-tei.jp/sell/gcg/card/gd01/10040,×,1 点,2026-11-17T08:01:37+07:00
-STOCK,GD01,GD01-096,R+,カガリ・ユラ・アスハ(パラレル),1 点,×,https://yuyu-tei.jp/sell/gcg/card/gd01/10122,1 点,×,2026-11-17T08:01:37+07:00
-STOCK,GD01,GD01-050,R,ラゴゥ,5 点,×,https://yuyu-tei.jp/sell/gcg/card/gd01/10065,5 点,×,2026-11-17T08:01:37+07:00
-STOCK,GD01,GD01-111,R,エースの戦い,9 点,6 点,https://yuyu-tei.jp/sell/gcg/card/gd01/10139,9 点,6 点,2026-11-17T08:01:37+07:00
-STOCK,GD01,GD01-030,U,リック・ドム(GD01収録),8 点,×,https://yuyu-tei.jp/sell/gcg/card/gd01/10041,8 点,×,2026-11-17T08:01:37+07:00
-STOCK,GD01,GD01-051,U,クシャトリヤ,10 点,◯,https://yuyu-tei.jp/sell/gcg/card/gd01/10067,10 点,◯,2026-11-17T08:01:37+07:00
-STOCK,GD01,GD01-100,U,覚悟の表れ(GD01収録),◯,10 点,https://yuyu-tei.jp/sell/gcg/card/gd01/10126,◯,10 点,2026-11-17T08:01:37+07:00
-PRICE,GD01,GD01-018,C,リゼル(GD01収録),180,220,https://yuyu-tei.jp/sell/gcg/card/gd01/10024,6 点,×,2026-11-17T08:01:37+07:00
-STOCK,GD02,GD02-002,LR,ガンダムエピオン,2 点,◯,https://yuyu-tei.jp/sell/gcg/card/gd02/10003,2 点,◯,2026-11-17T08:01:37+07:00
-STOCK,GD02,GD02-070,LR,ガンダム・キマリス,×,1 点,https://yuyu-tei.jp/sell/gcg/card/gd02/10091,×,1 点,2026-11-17T08:01:37+07:00
-STOCK,GD02,GD02-005,R+,トールギス(パラレル),×,1 点,https://yuyu-tei.jp/sell/gcg/card/gd02/10009,×,1 点,2026-11-17T08:01:37+07:00
-STOCK,GD03,GD03-001,LR,ガンダムNT-1,5 点,2 点,https://yuyu-tei.jp/sell/gcg/card/gd03/10001,5 点,2 点,2026-11-17T08:01:37+07:00
-STOCK,GD03,GD03-035,LR,GFreD,7 点,9 点,https://yuyu-tei.jp/sell/gcg/card/gd03/10047,7 点,9 点,2026-11-17T08:01:37+07:00
-STOCK,GD03,GD03-091,R+,ラウ・ル・クルーゼ(パラレル),2 点,1 点,https://yuyu-tei.jp/sell/gcg/card/gd03/10118,2 点,1 点,2026-11-17T08:01:37+07:00
-STOCK,GD03,GD03-109,R+,戦技の向上(パラレル),×,4 点,https://yuyu-tei.jp/sell/gcg/card/gd03/10141,×,4 点,2026-11-17T08:01:37+07:00
-STOCK,GD03,GD03-118,R+,能力の覚醒(パラレル),9 点,8 点,https://yuyu-tei.jp/sell/gcg/card/gd03/10152,9 点,8 点,2026-11-17T08:01:37+07:00
-STOCK,GD03,GD03-088,R,アセム・アスノ,10 点,6 点,https://yuyu-tei.jp/sell/gcg/card/gd03/10113,10 点,6 点,2026-11-17T08:01:37+07:00
-STOCK,GD04,GD04-003,LR,Vガンダム,◯,7 点,https://yuyu-tei.jp/sell/gcg/card/gd04/10005,◯,7 点,2026-11-17T08:01:37+07:00
-STOCK,GD04,GD04-049,LR,ガンダムDX,4 点,5 点,https://yuyu-tei.jp/sell/gcg/card/gd04/10063,4 点,5 点,2026-11-17T08:01:37+07:00
-STOCK,GD04,GD04-050,LR,デスティニーガンダム,2 点,×,https://yuyu-tei.jp/sell/gcg/card/gd04/10065,2 点,×,2026-11-17T08:01:37+07:00
-STOCK,GD04,GD04-089,R+,ネーナ・トリニティ(パラレル),2 点,3 点,https://yuyu-tei.jp/sell/gcg/card/gd04/10115,2 点,3 点,2026-11-17T08:01:37+07:00
-STOCK,GD04,GD04-053,R,ブレイズザクファントム（レイ専用機）,1 点,×,https://yuyu-tei.jp/sell/gcg/card/gd04/10070,1 点,×,2026-11-17T08:01:37+07:00
-STOCK,GD04,GD04-068,R,シルヴァ・バレト,2 点,×,https://yuyu-tei.jp/sell/gcg/card/gd04/10089,2 点,×,2026-11-17T08:01:37+07:00
-STOCK,GD04,GD04-097,R,ロラン・セアック,◯,5 点,https://yuyu-tei.jp/sell/gcg/card/gd04/10125,◯,5 点,2026-11-17T08:01:37+07:00
-STOCK,GD04,GD04-110,U+,出資者(パラレル),1 点,2 点,https://yuyu-tei.jp/sell/gcg/card/gd04/10142,1 点,2 点,2026-11-17T08:01:37+07:00
-STOCK,GD04,GD04-077,C,フラット（ミリシャ仕様）,7 点,×,https://yuyu-tei.jp/sell/gcg/card/gd04/10100,7 点,×,2026-11-17T08:01:37+07:00
-STOCK,GD05,GD05-017,LR,νガンダム,◯,8 点,https://yuyu-tei.jp/sell/gcg/card/gd05/10024,◯,8 点,2026-11-17T08:01:37+07:00
-PRICE,GD05,GD05-033,LR,マスターガンダム,180,220,https://yuyu-tei.jp/sell/gcg/card/gd05/10047,◯,◯,2026-11-17T08:01:37+07:00
-PRICE,GD05,GD05-049,LR,サザビー,420,500,https://yuyu-tei.jp/sell/gcg/card/gd05/10071,◯,◯,2026-11-17T08:01:37+07:00
-STOCK,GD05,GD05-055,R+,デスティニーガンダム(パラレル),3 点,1 点,https://yuyu-tei.jp/sell/gcg/card/gd05/10084,3 点,1 点,2026-11-17T08:01:37+07:00
-STOCK,GD05,GD05-098,R+,ヒイロ・ユイ(パラレル),1 点,2 点,https://yuyu-tei.jp/sell/gcg/card/gd05/10143,1 点,2 点,2026-11-17T08:01:37+07:00
-PRICE,GD05,GD05-019,R,リ・ガズィ,120,180,https://yuyu-tei.jp/sell/gcg/card/gd05/10029,◯,5 点,2026-11-17T08:01:37+07:00
-PRICE,GD05,GD05-022,R,ガンダム・シュバルゼッテ,120,80,https://yuyu-tei.jp/sell/gcg/card/gd05/10034,◯,◯,2026-11-17T08:01:37+07:00
-STOCK,GD05,GD05-093,R,シャア・アズナブル,1 点,5 点,https://yuyu-tei.jp/sell/gcg/card/gd05/10135,1 点,5 点,2026-11-17T08:01:37+07:00
-PRICE,GD05,GD05-110,R,ダークネスフィンガー,1480,1280,https://yuyu-tei.jp/sell/gcg/card/gd05/10157,◯,◯,2026-11-17T08:01:37+07:00
-PRICE,GD05,GD05-129,R,アクシズ,320,220,https://yuyu-tei.jp/sell/gcg/card/gd05/10178,◯,◯,2026-11-17T08:01:37+07:00
-STOCK,GD05,ST03-010,SP,フル・フロンタル(パラレル),×,1 点,https://yuyu-tei.jp/sell/gcg/card/gd05/10183,×,1 点,2026-11-17T08:01:37+07:00
-STOCK,GD05,GD05-059,LK,ガンダム・バルバトスルプス(パラレル),10 点,2 点,https://yuyu-tei.jp/sell/gcg/card/gd05/10089,10 点,2 点,2026-11-17T08:01:37+07:00
-STOCK,PROMO_GD10,GD03-072,R+,エールストライクガンダム(パラレル)(ショップバトル 2026 SEASON1 優勝者パック03),1 点,×,https://yuyu-tei.jp/sell/gcg/card/promo-gd10/10053,1 点,×,2026-11-17T08:01:37+07:00
-STOCK,PROMO_GD10,GD03-118,R,能力の覚醒(ニュータイプチャレンジ 2026 MISSION1 参加記念品),6 点,3 点,https://yuyu-tei.jp/sell/gcg/card/promo-gd10/10062,6 点,3 点,2026-11-17T08:01:37+07:00
-STOCK,PROMO_GD10,GD03-076,U,フリーダムガンダム（ミーティア）(ビギナーズバトル2026 SEASON1 参加記念品),9 点,6 点,https://yuyu-tei.jp/sell/gcg/card/promo-gd10/10054,9 点,6 点,2026-11-17T08:01:37+07:00
-STOCK,PROMO_GD10,GD02-106,C+,白い狼(パラレル)(ショップバトル2025 SEASON2 優勝者パック),1 点,×,https://yuyu-tei.jp/sell/gcg/card/promo-gd10/10033,1 点,×,2026-11-17T08:01:37+07:00
-STOCK,PROMO_GD10,GD05-016,C,ムラサメ(ショップバトル2026 SEASON4　参加者パック),8 点,7 点,https://yuyu-tei.jp/sell/gcg/card/promo-gd10/10136,8 点,7 点,2026-11-17T08:01:37+07:00
-STOCK,PROMO_ST20,ST04-010,C,キラ・ヤマト(スタートデッキリリースイベント),3 点,×,https://yuyu-tei.jp/sell/gcg/card/promo-st20/10002,3 点,×,2026-11-17T08:01:37+07:00
-STOCK,PROMO_ST20,ST04-015,C,アークエンジェル(ショップバトル2026 SEASON2 参加者パック),4 点,1 点,https://yuyu-tei.jp/sell/gcg/card/promo-st20/10041,4 点,1 点,2026-11-17T08:01:37+07:00
-STOCK,RP100,RP-007,P,リソース(キラ＆ストライクガンダム),1 点,×,https://yuyu-tei.jp/sell/gcg/card/rp-100/10005,1 点,×,2026-11-17T08:01:37+07:00
-STOCK,RP100,RP-031,P,リソース(ガンダムサンドロック),1 点,2 点,https://yuyu-tei.jp/sell/gcg/card/rp-100/10028,1 点,2 点,2026-11-17T08:01:37+07:00
-STOCK,SC01,ST02-001,LR,ウイングガンダム(SC01収録)(ノーマル仕様),5 点,1 点,https://yuyu-tei.jp/sell/gcg/card/sc01/10004,5 点,1 点,2026-11-17T08:01:37+07:00
-STOCK,SC01,GD01-111,R,エースの戦い(SC01収録)(ノーマル仕様),8 点,4 点,https://yuyu-tei.jp/sell/gcg/card/sc01/10036,8 点,4 点,2026-11-17T08:01:37+07:00
-STOCK,SC01,GD01-008,U,ガンタンク(SC01収録),2 点,×,https://yuyu-tei.jp/sell/gcg/card/sc01/10020,2 点,×,2026-11-17T08:01:37+07:00
-STOCK,SC01,GD01-126,C,砂漠地下基地(SC01収録),6 点,3 点,https://yuyu-tei.jp/sell/gcg/card/sc01/10038,6 点,3 点,2026-11-17T08:01:37+07:00
-PRICE,ST01,ST01-009,C+,ザウォート(パラレル),980,780,https://yuyu-tei.jp/sell/gcg/card/st01/10018,5 点,5 点,2026-11-17T08:01:37+07:00
-PRICE,ST01,ST01-009,C,ザウォート,80,50,https://yuyu-tei.jp/sell/gcg/card/st01/10017,◯,◯,2026-11-17T08:01:37+07:00
-STOCK,ST01,ST01-010,C,アムロ・レイ(ST01収録),4 点,×,https://yuyu-tei.jp/sell/gcg/card/st01/10019,4 点,×,2026-11-17T08:01:37+07:00
-PRICE,ST02,ST02-011,C+,ゼクス・マーキス(パラレル),580,780,https://yuyu-tei.jp/sell/gcg/card/st02/10022,×,×,2026-11-17T08:01:37+07:00
-STOCK,ST02,ST02-002,C,ウイングガンダム（バード形態）(ST02収録),4 点,×,https://yuyu-tei.jp/sell/gcg/card/st02/10003,4 点,×,2026-11-17T08:01:37+07:00
-PRICE,ST03,ST03-001,LR+,シナンジュ(パラレル),3980,2980,https://yuyu-tei.jp/sell/gcg/card/st03/10002,1 点,1 点,2026-11-17T08:01:37+07:00
-PRICE,ST03,ST03-001,LR,シナンジュ,120,80,https://yuyu-tei.jp/sell/gcg/card/st03/10001,◯,◯,2026-11-17T08:01:37+07:00
-STOCK,ST03,ST03-006,LR,ザクII（シャア・アズナブル機）,2 点,×,https://yuyu-tei.jp/sell/gcg/card/st03/10011,2 点,×,2026-11-17T08:01:37+07:00
-PRICE,ST03,ST03-010,C+,フル・フロンタル(パラレル),1280,780,https://yuyu-tei.jp/sell/gcg/card/st03/10020,◯,◯,2026-11-17T08:01:37+07:00
-PRICE,ST03,ST03-011,C+,シャア・アズナブル(パラレル)(ST03収録),1280,980,https://yuyu-tei.jp/sell/gcg/card/st03/10022,4 点,4 点,2026-11-17T08:01:37+07:00
-PRICE,ST03,ST03-013,C+,格闘戦(パラレル),2980,2480,https://yuyu-tei.jp/sell/gcg/card/st03/10026,1 点,1 点,2026-11-17T08:01:37+07:00
-PRICE,ST03,ST03-015,C+,レウルーラ(パラレル),780,680,https://yuyu-tei.jp/sell/gcg/card/st03/10030,3 点,3 点,2026-11-17T08:01:37+07:00
-STOCK,ST03,ST03-003,C,ギラ・ズール,◯,8 点,https://yuyu-tei.jp/sell/gcg/card/st03/10005,◯,8 点,2026-11-17T08:01:37+07:00
-STOCK,ST03,ST03-008,C,ザクII(ST03収録),6 点,1 点,https://yuyu-tei.jp/sell/gcg/card/st03/10015,6 点,1 点,2026-11-17T08:01:37+07:00
-PRICE,ST03,ST03-010,C,フル・フロンタル,80,50,https://yuyu-tei.jp/sell/gcg/card/st03/10019,◯,◯,2026-11-17T08:01:37+07:00
-PRICE,ST04,ST04-001,LR+,エールストライクガンダム(パラレル)(ST04収録),5980,4980,https://yuyu-tei.jp/sell/gcg/card/st04/10002,×,×,2026-11-17T08:01:37+07:00
-STOCK,ST04,ST04-001,LR,エールストライクガンダム(ST04収録),×,◯,https://yuyu-tei.jp/sell/gcg/card/st04/10001,×,◯,2026-11-17T08:01:37+07:00
-PRICE,ST04,ST04-010,C+,キラ・ヤマト(パラレル)(ST04収録),1480,1280,https://yuyu-tei.jp/sell/gcg/card/st04/10020,1 点,1 点,2026-11-17T08:01:37+07:00
-PRICE,ST04,ST04-012,C+,ストライカーパック(パラレル),1280,980,https://yuyu-tei.jp/sell/gcg/card/st04/10024,2 点,2 点,2026-11-17T08:01:37+07:00
-STOCK,ST04,ST04-016,C+,ヴェサリウス(パラレル),1 点,×,https://yuyu-tei.jp/sell/gcg/card/st04/10032,1 点,×,2026-11-17T08:01:37+07:00
-PRICE,ST05,ST05-001,LR+,ガンダム・バルバトス（第4形態）(パラレル),1780,1480,https://yuyu-tei.jp/sell/gcg/card/st05/10004,2 点,2 点,2026-11-17T08:01:37+07:00
-PRICE,ST05,ST05-007,LR+,シュヴァルべ・グレイズ （マクギリス機）(パラレル),320,420,https://yuyu-tei.jp/sell/gcg/card/st05/10016,8 点,8 点,2026-11-17T08:01:37+07:00
-PRICE,ST05,ST01-014,C+,予期せぬ出来事(パラレル)(ST05収録),320,220,https://yuyu-tei.jp/sell/gcg/card/st05/10002,◯,◯,2026-11-17T08:01:37+07:00
-PRICE,ST05,ST05-004,C+,グレイズ改(パラレル),1780,1280,https://yuyu-tei.jp/sell/gcg/card/st05/10010,◯,◯,2026-11-17T08:01:37+07:00
-PRICE,ST05,ST05-015,C+,イサリビ(パラレル),680,580,https://yuyu-tei.jp/sell/gcg/card/st05/10032,◯,◯,2026-11-17T08:01:37+07:00
-PRICE,ST05,ST05-006,C,百錬,120,80,https://yuyu-tei.jp/sell/gcg/card/st05/10013,◯,◯,2026-11-17T08:01:37+07:00
-PRICE,ST05,ST05-014,C,致命の一撃(ST05収録),80,50,https://yuyu-tei.jp/sell/gcg/card/st05/10029,◯,◯,2026-11-17T08:01:37+07:00
-PRICE,ST06,ST06-001,LR+,GQuuuuuuX（オメガ・サイコミュ起動時）(パラレル),1980,1480,https://yuyu-tei.jp/sell/gcg/card/st06/10004,1 点,×,2026-11-17T08:01:37+07:00
-PRICE,ST06,ST06-005,LR+,赤いガンダム(パラレル),1780,1480,https://yuyu-tei.jp/sell/gcg/card/st06/10012,×,×,2026-11-17T08:01:37+07:00
-PRICE,ST06,ST06-004,C+,ゲルググ（GQ）(パラレル),420,220,https://yuyu-tei.jp/sell/gcg/card/st06/10010,5 点,1 点,2026-11-17T08:01:37+07:00
-PRICE,ST06,ST06-006,C+,赤いガンダム(パラレル),500,320,https://yuyu-tei.jp/sell/gcg/card/st06/10014,4 点,4 点,2026-11-17T08:01:37+07:00
-PRICE,ST06,ST06-007,C+,リック・ドム オルテガ機（GQ）(パラレル),780,580,https://yuyu-tei.jp/sell/gcg/card/st06/10016,2 点,2 点,2026-11-17T08:01:37+07:00
-PRICE,ST06,ST06-008,C+,ゲルググ スガイ機（GQ）(パラレル),980,680,https://yuyu-tei.jp/sell/gcg/card/st06/10018,×,×,2026-11-17T08:01:37+07:00
-PRICE,ST06,ST06-009,C+,アマテ・ユズリハ（マチュ）(パラレル),980,780,https://yuyu-tei.jp/sell/gcg/card/st06/10020,3 点,3 点,2026-11-17T08:01:37+07:00
-PRICE,ST06,ST06-010,C+,シュウジ・イトウ(パラレル),500,420,https://yuyu-tei.jp/sell/gcg/card/st06/10022,2 点,2 点,2026-11-17T08:01:37+07:00
-PRICE,ST06,ST06-012,C+,女子高生と運び屋(パラレル),780,580,https://yuyu-tei.jp/sell/gcg/card/st06/10026,1 点,1 点,2026-11-17T08:01:37+07:00
-PRICE,ST06,ST06-014,C+,クランバトル(パラレル),500,420,https://yuyu-tei.jp/sell/gcg/card/st06/10030,1 点,1 点,2026-11-17T08:01:37+07:00
-PRICE,ST07,ST07-005,LR+,ガンダムデュナメス(パラレル),2980,2480,https://yuyu-tei.jp/sell/gcg/card/st07/10012,3 点,3 点,2026-11-17T08:01:37+07:00
-PRICE,ST07,ST07-005,LR,ガンダムデュナメス,120,80,https://yuyu-tei.jp/sell/gcg/card/st07/10011,◯,◯,2026-11-17T08:01:37+07:00
-PRICE,ST07,ST07-002,C+,ガンダムエクシア(パラレル),420,320,https://yuyu-tei.jp/sell/gcg/card/st07/10006,1 点,1 点,2026-11-17T08:01:37+07:00
-PRICE,ST07,ST07-007,C+,ガンダムキュリオス(パラレル),580,420,https://yuyu-tei.jp/sell/gcg/card/st07/10016,4 点,4 点,2026-11-17T08:01:37+07:00
-PRICE,ST07,ST07-013,C+,武力介入(パラレル),420,320,https://yuyu-tei.jp/sell/gcg/card/st07/10028,5 点,1 点,2026-11-17T08:01:37+07:00
-PRICE,ST07,ST05-014,C,致命の一撃(ST07収録),80,50,https://yuyu-tei.jp/sell/gcg/card/st07/10001,◯,◯,2026-11-17T08:01:37+07:00
-PRICE,ST07,ST07-013,C,武力介入,80,50,https://yuyu-tei.jp/sell/gcg/card/st07/10027,◯,◯,2026-11-17T08:01:37+07:00
-PRICE,ST08,ST08-006,LR+,ペーネロペー(パラレル),1980,1780,https://yuyu-tei.jp/sell/gcg/card/st08/10014,×,×,2026-11-17T08:01:37+07:00
-PRICE,ST08,ST08-002,C+,Ξガンダム(パラレル),780,680,https://yuyu-tei.jp/sell/gcg/card/st08/10006,1 点,1 点,2026-11-17T08:01:37+07:00
-PRICE,ST08,ST08-008,C+,グスタフ・カール00型(パラレル),500,320,https://yuyu-tei.jp/sell/gcg/card/st08/10018,◯,◯,2026-11-17T08:01:37+07:00
-PRICE,ST08,ST08-014,C+,ヴァリアント(パラレル),780,1280,https://yuyu-tei.jp/sell/gcg/card/st08/10030,×,×,2026-11-17T08:01:37+07:00
-PRICE,ST08,ST08-014,C,ヴァリアント,80,180,https://yuyu-tei.jp/sell/gcg/card/st08/10029,×,×,2026-11-17T08:01:37+07:00
-PRICE,ST09,ST09-001,LR+,インパルスガンダム(パラレル),5980,3980,https://yuyu-tei.jp/sell/gcg/card/st09/10009,×,×,2026-11-17T08:01:37+07:00
-PRICE,ST09,ST09-002,LR+,フォースインパルスガンダム(パラレル),3980,2980,https://yuyu-tei.jp/sell/gcg/card/st09/10011,×,×,2026-11-17T08:01:37+07:00
-PRICE,ST09,ST09-003,LR+,セイバーガンダム(パラレル),1980,1480,https://yuyu-tei.jp/sell/gcg/card/st09/10013,1 点,1 点,2026-11-17T08:01:37+07:00
-STOCK,ST09,ST09-004,LR+,フリーダムガンダム(パラレル),×,1 点,https://yuyu-tei.jp/sell/gcg/card/st09/10015,×,1 点,2026-11-17T08:01:37+07:00
-PRICE,ST09,ST09-002,LR,フォースインパルスガンダム,320,220,https://yuyu-tei.jp/sell/gcg/card/st09/10010,◯,◯,2026-11-17T08:01:37+07:00
-PRICE,ST09,ST09-003,LR,セイバーガンダム,120,80,https://yuyu-tei.jp/sell/gcg/card/st09/10012,◯,◯,2026-11-17T08:01:37+07:00
-PRICE,ST09,ST09-004,LR,フリーダムガンダム,180,120,https://yuyu-tei.jp/sell/gcg/card/st09/10014,◯,◯,2026-11-17T08:01:37+07:00
-STOCK,ST09,GD01-054,R,デュエルガンダム(ST09収録),◯,8 点,https://yuyu-tei.jp/sell/gcg/card/st09/10029,◯,8 点,2026-11-17T08:01:37+07:00
-PRICE,ST09,ST09-005,C+,ザクウォーリア(パラレル),980,780,https://yuyu-tei.jp/sell/gcg/card/st09/10017,4 点,4 点,2026-11-17T08:01:37+07:00
-PRICE,ST09,ST09-007,C+,ブラストインパルスガンダム(パラレル),1280,980,https://yuyu-tei.jp/sell/gcg/card/st09/10021,×,×,2026-11-17T08:01:37+07:00
-PRICE,ST09,ST09-009,C+,ジャイアントキリング(パラレル),1980,1780,https://yuyu-tei.jp/sell/gcg/card/st09/10025,×,×,2026-11-17T08:01:37+07:00
-STOCK,ST09,ST04-016,C,ヴェサリウス(ST09収録),8 点,◯,https://yuyu-tei.jp/sell/gcg/card/st09/10007,8 点,◯,2026-11-17T08:01:37+07:00
-PRICE,ST09,ST09-007,C,ブラストインパルスガンダム,80,50,https://yuyu-tei.jp/sell/gcg/card/st09/10020,◯,◯,2026-11-17T08:01:37+07:00
-PRICE,ST09,ST09-008,C,シン・アスカ,80,50,https://yuyu-tei.jp/sell/gcg/card/st09/10022,◯,◯,2026-11-17T08:01:37+07:00
-PRICE,ST09,ST09-009,C,ジャイアントキリング,220,180,https://yuyu-tei.jp/sell/gcg/card/st09/10024,◯,◯,2026-11-17T08:01:37+07:00
-PRICE,ST09,ST09-010,C,ミネルバ,80,50,https://yuyu-tei.jp/sell/gcg/card/st09/10026,◯,◯,2026-11-17T08:01:37+07:00
-PRICE,ST10,ST10-006,LR+,フェニックスガンダム（能力解放）（EX）(パラレル),1280,980,https://yuyu-tei.jp/sell/gcg/card/st10/10012,3 点,3 点,2026-11-17T08:01:37+07:00
-PRICE,ST10,ST10-011,C+,カミーユ・ビダン(パラレル),420,320,https://yuyu-tei.jp/sell/gcg/card/st10/10022,5 点,5 点,2026-11-17T08:01:37+07:00
-PRICE,ST10,ST10-012,C+,マーク・ギルダー(パラレル),500,420,https://yuyu-tei.jp/sell/gcg/card/st10/10024,2 点,2 点,2026-11-17T08:01:37+07:00
-PRICE,ST10,ST10-014,C+,開発経路図の解放(パラレル),420,320,https://yuyu-tei.jp/sell/gcg/card/st10/10028,3 点,3 点,2026-11-17T08:01:37+07:00
-PRICE,ST10,ST10-015,C,拡散ビーム砲,80,50,https://yuyu-tei.jp/sell/gcg/card/st10/10029,◯,◯,2026-11-17T08:01:37+07:00
-PRICE,ST11,ST11-002,C+,アッガイ(パラレル),500,420,https://yuyu-tei.jp/sell/gcg/card/st11/10004,5 点,5 点,2026-11-17T08:01:37+07:00
-PRICE,ST11,ST11-004,C+,ゾノ(パラレル),780,500,https://yuyu-tei.jp/sell/gcg/card/st11/10008,×,×,2026-11-17T08:01:37+07:00
-PRICE,ST11,ST11-008,C+,ドーシート(パラレル),980,780,https://yuyu-tei.jp/sell/gcg/card/st11/10016,4 点,4 点,2026-11-17T08:01:37+07:00
-PRICE,ST11,ST11-011,C+,シャア・アズナブル(パラレル),780,680,https://yuyu-tei.jp/sell/gcg/card/st11/10022,5 点,5 点,2026-11-17T08:01:37+07:00
-PRICE,ST11,ST11-013,C+,迂闊な攻撃(パラレル),980,780,https://yuyu-tei.jp/sell/gcg/card/st11/10026,1 点,1 点,2026-11-17T08:01:37+07:00
-PRICE,ST11,ST11-015,C+,深淵からの一閃(パラレル),420,320,https://yuyu-tei.jp/sell/gcg/card/st11/10030,3 点,3 点,2026-11-17T08:01:37+07:00
-PRICE,ST11,ST11-013,C,迂闊な攻撃,220,180,https://yuyu-tei.jp/sell/gcg/card/st11/10025,◯,◯,2026-11-17T08:01:37+07:00
-PRICE,ST11,ST11-015,C,深淵からの一閃,50,30,https://yuyu-tei.jp/sell/gcg/card/st11/10029,◯,◯,2026-11-17T08:01:37+07:00
-STOCK,ST11,ST11-016,C,マッド・アングラー,7 点,3 点,https://yuyu-tei.jp/sell/gcg/card/st11/10031,7 点,3 点,2026-11-17T08:01:37+07:00
-PRICE,ST12,ST12-001,LR+,ガンダムエピオン(パラレル),2480,1980,https://yuyu-tei.jp/sell/gcg/card/st12/10002,2 点,×,2026-11-17T08:01:37+07:00
-PRICE,ST12,ST12-006,LR+,ユニコーンガンダム2号機 バンシィ（デストロイモード）(パラレル),4980,3480,https://yuyu-tei.jp/sell/gcg/card/st12/10012,2 点,2 点,2026-11-17T08:01:37+07:00
-PRICE,ST12,ST12-006,LR,ユニコーンガンダム2号機 バンシィ（デストロイモード）,320,220,https://yuyu-tei.jp/sell/gcg/card/st12/10011,◯,◯,2026-11-17T08:01:37+07:00
-PRICE,ST12,ST12-008,C+,イフリート・シュナイド(パラレル),500,580,https://yuyu-tei.jp/sell/gcg/card/st12/10016,×,×,2026-11-17T08:01:37+07:00
-PRICE,ST12,ST12-011,C+,ミリアルド・ピースクラフト(パラレル),780,680,https://yuyu-tei.jp/sell/gcg/card/st12/10022,4 点,4 点,2026-11-17T08:01:37+07:00
-STOCK,ST12,ST12-012,C+,プルトゥエルブ(パラレル),2 点,×,https://yuyu-tei.jp/sell/gcg/card/st12/10024,2 点,×,2026-11-17T08:01:37+07:00
-PRICE,ST12,ST12-015,C+,二機のユニコーン(パラレル),500,420,https://yuyu-tei.jp/sell/gcg/card/st12/10030,3 点,3 点,2026-11-17T08:01:37+07:00
-PRICE,ST12,ST12-008,C,イフリート・シュナイド,30,50,https://yuyu-tei.jp/sell/gcg/card/st12/10015,×,×,2026-11-17T08:01:37+07:00
-PRICE,ST13,ST13-001,LR+,キュベレイ(パラレル),5980,4980,https://yuyu-tei.jp/sell/gcg/card/st13/10002,3 点,3 点,2026-11-17T08:01:37+07:00
-PRICE,ST13,ST13-008,C+,ガンダムスローネツヴァイ(パラレル),1280,980,https://yuyu-tei.jp/sell/gcg/card/st13/10016,2 点,2 点,2026-11-17T08:01:37+07:00
-PRICE,ST13,ST13-009,C+,ガンダム・ファラクト(パラレル),980,780,https://yuyu-tei.jp/sell/gcg/card/st13/10018,2 点,2 点,2026-11-17T08:01:37+07:00
-PRICE,ST13,ST13-015,C+,ソロモン迎撃作戦(パラレル),420,320,https://yuyu-tei.jp/sell/gcg/card/st13/10030,4 点,4 点,2026-11-17T08:01:37+07:00
-STOCK,ST13,ST13-012,C,スレッタ・マーキュリー,1 点,×,https://yuyu-tei.jp/sell/gcg/card/st13/10023,1 点,×,2026-11-17T08:01:37+07:00
-PRICE,ST14,ST14-001,LR+,ジ・O(パラレル),2480,1780,https://yuyu-tei.jp/sell/gcg/card/st14/10002,1 点,1 点,2026-11-17T08:01:37+07:00
-PRICE,ST14,ST14-006,LR+,フルアーマー・ユニコーンガンダム（デストロイモード）(パラレル),3480,2980,https://yuyu-tei.jp/sell/gcg/card/st14/10012,4 点,2 点,2026-11-17T08:01:37+07:00
-PRICE,ST14,ST14-003,C+,パラス・アテネ(パラレル),580,500,https://yuyu-tei.jp/sell/gcg/card/st14/10006,4 点,4 点,2026-11-17T08:01:37+07:00
-PRICE,ST14,ST14-010,C+,パーフェクトストライクガンダム(パラレル),420,320,https://yuyu-tei.jp/sell/gcg/card/st14/10020,4 点,4 点,2026-11-17T08:01:37+07:00
-PRICE,ST14,ST14-011,C+,パプテマス・シロッコ(パラレル),780,680,https://yuyu-tei.jp/sell/gcg/card/st14/10022,2 点,2 点,2026-11-17T08:01:37+07:00
-STOCK,GD06,GD06-034,LR++,ガンダム・バエル(パラレル),2 点,×,https://yuyu-tei.jp/sell/gcg/card/gd06/10051,2 点,×,2026-11-17T08:01:37+07:00
-STOCK,GD06,GD06-001,LR+,ガンダム試作1号機フルバーニアン(パラレル),×,1 点,https://yuyu-tei.jp/sell/gcg/card/gd06/10002,×,1 点,2026-11-17T08:01:37+07:00
-STOCK,GD06,GD06-002,LR+,インフィニットジャスティスガンダム(パラレル),×,2 点,https://yuyu-tei.jp/sell/gcg/card/gd06/10004,×,2 点,2026-11-17T08:01:37+07:00
-PRICE,GD06,GD06-034,LR+,ガンダム・バエル(パラレル),3480,2980,https://yuyu-tei.jp/sell/gcg/card/gd06/10050,×,×,2026-11-17T08:01:37+07:00
-STOCK,GD06,GD06-051,LR+,GFreD(パラレル),3 点,4 点,https://yuyu-tei.jp/sell/gcg/card/gd06/10076,3 点,4 点,2026-11-17T08:01:37+07:00
-STOCK,GD06,GD06-018,LR,キュベレイMk-II（エルピー・プル専用）,◯,7 点,https://yuyu-tei.jp/sell/gcg/card/gd06/10026,◯,7 点,2026-11-17T08:01:37+07:00
-STOCK,GD06,GD06-019,LR,ターンX,1 点,×,https://yuyu-tei.jp/sell/gcg/card/gd06/10028,1 点,×,2026-11-17T08:01:37+07:00
-STOCK,GD06,GD06-051,LR,GFreD,3 点,4 点,https://yuyu-tei.jp/sell/gcg/card/gd06/10075,3 点,4 点,2026-11-17T08:01:37+07:00
-STOCK,GD06,GD06-064,LR,アルトロンガンダム（EW版）,2 点,5 点,https://yuyu-tei.jp/sell/gcg/card/gd06/10093,2 点,5 点,2026-11-17T08:01:37+07:00
-PRICE,GD06,GD06-065,LR,ゴールドスモー,220,320,https://yuyu-tei.jp/sell/gcg/card/gd06/10095,◯,◯,2026-11-17T08:01:37+07:00
-STOCK,GD06,GD06-004,R+,ガンダム試作1号機(パラレル),1 点,3 点,https://yuyu-tei.jp/sell/gcg/card/gd06/10009,1 点,3 点,2026-11-17T08:01:37+07:00
-STOCK,GD06,GD06-005,R+,アカツキ（シラヌイ）(パラレル),×,2 点,https://yuyu-tei.jp/sell/gcg/card/gd06/10011,×,2 点,2026-11-17T08:01:37+07:00
-STOCK,GD06,GD06-081,R+,アマテ・ユズリハ（マチュ）(パラレル),3 点,2 点,https://yuyu-tei.jp/sell/gcg/card/gd06/10119,3 点,2 点,2026-11-17T08:01:37+07:00
-STOCK,GD06,GD06-088,R+,ジュドー・アーシタ(パラレル),3 点,4 点,https://yuyu-tei.jp/sell/gcg/card/gd06/10128,3 点,4 点,2026-11-17T08:01:37+07:00
-STOCK,GD06,GD06-094,R+,ニャアン(パラレル),×,1 点,https://yuyu-tei.jp/sell/gcg/card/gd06/10136,×,1 点,2026-11-17T08:01:37+07:00
-STOCK,GD06,GD06-021,R,ターンX（トップ）,3 点,◯,https://yuyu-tei.jp/sell/gcg/card/gd06/10032,3 点,◯,2026-11-17T08:01:37+07:00
-STOCK,GD06,GD06-036,R,ガンダム・ヴィダール,9 点,◯,https://yuyu-tei.jp/sell/gcg/card/gd06/10054,9 点,◯,2026-11-17T08:01:37+07:00
-STOCK,GD06,GD06-037,R,レギンレイズ・ジュリア,10 点,◯,https://yuyu-tei.jp/sell/gcg/card/gd06/10056,10 点,◯,2026-11-17T08:01:37+07:00
-STOCK,GD06,GD06-053,R,エグザベ専用ギャン（ハクジ装備）（GQ）,3 点,1 点,https://yuyu-tei.jp/sell/gcg/card/gd06/10079,3 点,1 点,2026-11-17T08:01:37+07:00
-STOCK,GD06,GD06-068,R,ガンダムヘビーアームズ改（EW版）,×,◯,https://yuyu-tei.jp/sell/gcg/card/gd06/10100,×,◯,2026-11-17T08:01:37+07:00
-STOCK,GD06,GD06-025,U,リ・ガズィ,1 点,×,https://yuyu-tei.jp/sell/gcg/card/gd06/10038,1 点,×,2026-11-17T08:01:37+07:00
-STOCK,GD06,GD06-016,C,ドムトルーパー,◯,8 点,https://yuyu-tei.jp/sell/gcg/card/gd06/10024,◯,8 点,2026-11-17T08:01:37+07:00
-STOCK,GD06,GD06-006,LK,GQuuuuuuX（オメガ・サイコミュ起動時）(パラレル),×,1 点,https://yuyu-tei.jp/sell/gcg/card/gd06/10013,×,1 点,2026-11-17T08:01:37+07:00
-STOCK,GD06,GD06-036,LK,ガンダム・ヴィダール(パラレル),2 点,4 点,https://yuyu-tei.jp/sell/gcg/card/gd06/10055,2 点,4 点,2026-11-17T08:01:37+07:00
-STOCK,GD06,GD06-037,LK,レギンレイズ・ジュリア(パラレル),6 点,7 点,https://yuyu-tei.jp/sell/gcg/card/gd06/10057,6 点,7 点,2026-11-17T08:01:37+07:00
-STOCK,GD06,GD06-054,LK,GFreD(パラレル),1 点,2 点,https://yuyu-tei.jp/sell/gcg/card/gd06/10082,1 点,2 点,2026-11-17T08:01:37+07:00
-STOCK,EXBP100,EXBP-005,P,EXベース(ガンダム BCGFest 25-26 Ver.),6 点,5 点,https://yuyu-tei.jp/sell/gcg/card/exbp-100/10005,6 点,5 点,2026-11-17T08:01:37+07:00
-STOCK,EXBP100,EXBP-025,P,EXベース(νガンダム),4 点,3 点,https://yuyu-tei.jp/sell/gcg/card/exbp-100/10019,4 点,3 点,2026-11-17T08:01:37+07:00
-STOCK,LIMITED1,GD01-118,U,溢れる慈愛(リミテッドBOX Ver.β収録),◯,9 点,https://yuyu-tei.jp/sell/gcg/card/limited1.0/10072,◯,9 点,2026-11-17T08:01:37+07:00
-PRICE,LIMITED1,GD01-018,C,リゼル(リミテッドBOX Ver.β収録),180,220,https://yuyu-tei.jp/sell/gcg/card/limited1.0/10043,×,×,2026-11-17T08:01:37+07:00
-PRICE,LIMITED1,ST03-008,C,ザクII(リミテッドBOX Ver.β収録),120,220,https://yuyu-tei.jp/sell/gcg/card/limited1.0/10023,×,×,2026-11-17T08:01:37+07:00
-STOCK,LIMITED1,ST03-016,C,ファルメル(リミテッドBOX Ver.β収録),1 点,×,https://yuyu-tei.jp/sell/gcg/card/limited1.0/10026,1 点,×,2026-11-17T08:01:37+07:00
-STOCK,RETO,R-004,C+,リソース(パラレル),3 点,2 点,https://yuyu-tei.jp/sell/gcg/card/reto/10021,3 点,2 点,2026-11-17T08:01:37+07:00
-STOCK,RETO,R-026,C+,リソース(ガンダムエクシア)(パラレル),1 点,×,https://yuyu-tei.jp/sell/gcg/card/reto/10076,1 点,×,2026-11-17T08:01:37+07:00
-STOCK,RETO,R-038,C+,リソース(デスティニーガンダム)(パラレル),5 点,3 点,https://yuyu-tei.jp/sell/gcg/card/reto/10108,5 点,3 点,2026-11-17T08:01:37+07:00
-STOCK,RETO,R-008,C,リソース,6 点,5 点,https://yuyu-tei.jp/sell/gcg/card/reto/10028,6 点,5 点,2026-11-17T08:01:37+07:00
-STOCK,RETO,R-014,C,リソース,3 点,6 点,https://yuyu-tei.jp/sell/gcg/card/reto/10041,3 点,6 点,2026-11-17T08:01:37+07:00
-STOCK,RETO,R-018,C,リソース,6 点,◯,https://yuyu-tei.jp/sell/gcg/card/reto/10050,6 点,◯,2026-11-17T08:01:37+07:00
-STOCK,RETO,R-022,C,リソース(ケンプファー),◯,3 点,https://yuyu-tei.jp/sell/gcg/card/reto/10066,◯,3 点,2026-11-17T08:01:37+07:00
-STOCK,RETO,T-018,C,赤いガンダム,◯,7 点,https://yuyu-tei.jp/sell/gcg/card/reto/10059,◯,7 点,2026-11-17T08:01:37+07:00
-STOCK,RETO,T-021,C,パーツ,6 点,2 点,https://yuyu-tei.jp/sell/gcg/card/reto/10089,6 点,2 点,2026-11-17T08:01:37+07:00
-STOCK,RETO,T-022,C,有線式アーム,8 点,4 点,https://yuyu-tei.jp/sell/gcg/card/reto/10090,8 点,4 点,2026-11-17T08:01:37+07:00
-STOCK,RETO,T-023,C,ジオング（ヘッド）,◯,10 点,https://yuyu-tei.jp/sell/gcg/card/reto/10091,◯,10 点,2026-11-17T08:01:37+07:00
-STOCK,RETO,T-025,C,ガンダムエクシア,4 点,1 点,https://yuyu-tei.jp/sell/gcg/card/reto/10117,4 点,1 点,2026-11-17T08:01:37+07:00
-STOCK,RETO,T-026,C,ガンドノード,7 点,3 点,https://yuyu-tei.jp/sell/gcg/card/reto/10118,7 点,3 点,2026-11-17T08:01:37+07:00
+STOCK,EB01,EB01-001,LR+,ガンダムアストレイ レッドフレーム改（EX）(パラレル),1 点,5 点,https://yuyu-tei.jp/sell/gcg/card/eb01/10002,1 点,5 点,2026-11-18T08:04:15+07:00
+STOCK,EB01,EB01-023,R+,ル・シーニュ（EX）(パラレル),3 点,4 点,https://yuyu-tei.jp/sell/gcg/card/eb01/10032,3 点,4 点,2026-11-18T08:04:15+07:00
+STOCK,EB01,EB01-032,C,ガンダムEz8 ハイモビリティカスタム,6 点,10 点,https://yuyu-tei.jp/sell/gcg/card/eb01/10042,6 点,10 点,2026-11-18T08:04:15+07:00
+PRICE,EB01,EB01-056,C,ガンダムジェミナス01,120,80,https://yuyu-tei.jp/sell/gcg/card/eb01/10072,◯,◯,2026-11-18T08:04:15+07:00
+STOCK,GD01,GD01-025,LR+,ガンダムデスサイズ(パラレル),10 点,6 点,https://yuyu-tei.jp/sell/gcg/card/gd01/10034,10 点,6 点,2026-11-18T08:04:15+07:00
+STOCK,GD01,GD01-023,LR,シャア専用ゲルググ,5 点,7 点,https://yuyu-tei.jp/sell/gcg/card/gd01/10029,5 点,7 点,2026-11-18T08:04:15+07:00
+STOCK,GD01,GD01-046,LR,バスターガンダム,9 点,10 点,https://yuyu-tei.jp/sell/gcg/card/gd01/10059,9 点,10 点,2026-11-18T08:04:15+07:00
+STOCK,GD01,GD01-066,LR,ジャスティスガンダム,×,1 点,https://yuyu-tei.jp/sell/gcg/card/gd01/10083,×,1 点,2026-11-18T08:04:15+07:00
+STOCK,GD01,GD01-069,R+,ストライクルージュ(パラレル),10 点,7 点,https://yuyu-tei.jp/sell/gcg/card/gd01/10090,10 点,7 点,2026-11-18T08:04:15+07:00
+STOCK,GD01,GD01-090,R+,デュオ・マックスウェル(パラレル),◯,8 点,https://yuyu-tei.jp/sell/gcg/card/gd01/10114,◯,8 点,2026-11-18T08:04:15+07:00
+STOCK,GD01,GD01-026,R,ザクII（シャア・アズナブル機）(GD01収録),10 点,◯,https://yuyu-tei.jp/sell/gcg/card/gd01/10035,10 点,◯,2026-11-18T08:04:15+07:00
+STOCK,GD01,GD01-094,U,イザーク・ジュール,◯,×,https://yuyu-tei.jp/sell/gcg/card/gd01/10119,◯,×,2026-11-18T08:04:15+07:00
+STOCK,GD01,GD01-100,U,覚悟の表れ(GD01収録),10 点,◯,https://yuyu-tei.jp/sell/gcg/card/gd01/10126,10 点,◯,2026-11-18T08:04:15+07:00
+STOCK,GD01,GD01-118,U,溢れる慈愛(GD01収録),×,2 点,https://yuyu-tei.jp/sell/gcg/card/gd01/10148,×,2 点,2026-11-18T08:04:15+07:00
+STOCK,GD01,GD01-062,C,グーン,×,3 点,https://yuyu-tei.jp/sell/gcg/card/gd01/10078,×,3 点,2026-11-18T08:04:15+07:00
+PRICE,GD02,GD02-021,LR,ガンダムAGE-1 ノーマル,320,220,https://yuyu-tei.jp/sell/gcg/card/gd02/10026,◯,◯,2026-11-18T08:04:15+07:00
+STOCK,GD02,GD02-038,LR,GQuuuuuuX（オメガ・サイコミュ起動時）,8 点,6 点,https://yuyu-tei.jp/sell/gcg/card/gd02/10048,8 点,6 点,2026-11-18T08:04:15+07:00
+STOCK,GD02,GD02-055,LR,ガンダム・グシオンリベイク,5 点,7 点,https://yuyu-tei.jp/sell/gcg/card/gd02/10072,5 点,7 点,2026-11-18T08:04:15+07:00
+STOCK,GD02,GD02-088,R+,フリット・アスノ(パラレル),6 点,7 点,https://yuyu-tei.jp/sell/gcg/card/gd02/10114,6 点,7 点,2026-11-18T08:04:15+07:00
+STOCK,GD02,GD02-082,C,シュヴァルベ・グレイズ（ガエリオ機）,3 点,×,https://yuyu-tei.jp/sell/gcg/card/gd02/10106,3 点,×,2026-11-18T08:04:15+07:00
+STOCK,GD02,GD02-126,C,シュウジの隠れ家,7 点,2 点,https://yuyu-tei.jp/sell/gcg/card/gd02/10160,7 点,2 点,2026-11-18T08:04:15+07:00
+STOCK,GD03,GD03-035,LR++,GFreD(パラレル),1 点,×,https://yuyu-tei.jp/sell/gcg/card/gd03/10049,1 点,×,2026-11-18T08:04:15+07:00
+STOCK,GD03,GD03-070,LR+,フリーダムガンダム(パラレル),2 点,3 点,https://yuyu-tei.jp/sell/gcg/card/gd03/10092,2 点,3 点,2026-11-18T08:04:15+07:00
+STOCK,GD03,GD03-001,LR,ガンダムNT-1,2 点,×,https://yuyu-tei.jp/sell/gcg/card/gd03/10001,2 点,×,2026-11-18T08:04:15+07:00
+STOCK,GD03,GD03-002,LR,ジ・O,×,4 点,https://yuyu-tei.jp/sell/gcg/card/gd03/10003,×,4 点,2026-11-18T08:04:15+07:00
+STOCK,GD03,GD03-019,LR,ガンダムAGE-2 ノーマル,×,1 点,https://yuyu-tei.jp/sell/gcg/card/gd03/10026,×,1 点,2026-11-18T08:04:15+07:00
+STOCK,GD03,GD03-035,LR,GFreD,9 点,5 点,https://yuyu-tei.jp/sell/gcg/card/gd03/10047,9 点,5 点,2026-11-18T08:04:15+07:00
+STOCK,GD03,GD03-003,R,メッサーラ,7 点,5 点,https://yuyu-tei.jp/sell/gcg/card/gd03/10005,7 点,5 点,2026-11-18T08:04:15+07:00
+STOCK,GD03,GD03-084,R,パプテマス・シロッコ,7 点,1 点,https://yuyu-tei.jp/sell/gcg/card/gd03/10108,7 点,1 点,2026-11-18T08:04:15+07:00
+STOCK,GD03,GD03-088,R,アセム・アスノ,6 点,◯,https://yuyu-tei.jp/sell/gcg/card/gd03/10113,6 点,◯,2026-11-18T08:04:15+07:00
+STOCK,GD03,GD03-125,U,ピースミリオン,×,1 点,https://yuyu-tei.jp/sell/gcg/card/gd03/10159,×,1 点,2026-11-18T08:04:15+07:00
+STOCK,GD04,GD04-034,LR+,ガンダムキュリオス(パラレル),1 点,2 点,https://yuyu-tei.jp/sell/gcg/card/gd04/10046,1 点,2 点,2026-11-18T08:04:15+07:00
+PRICE,GD04,GD04-002,LR,ペーネロペー（フライト・フォーム）,120,180,https://yuyu-tei.jp/sell/gcg/card/gd04/10003,◯,◯,2026-11-18T08:04:15+07:00
+STOCK,GD04,GD04-003,LR,Vガンダム,7 点,◯,https://yuyu-tei.jp/sell/gcg/card/gd04/10005,7 点,◯,2026-11-18T08:04:15+07:00
+STOCK,GD04,GD04-049,LR,ガンダムDX,5 点,6 点,https://yuyu-tei.jp/sell/gcg/card/gd04/10063,5 点,6 点,2026-11-18T08:04:15+07:00
+STOCK,GD04,GD04-050,LR,デスティニーガンダム,×,1 点,https://yuyu-tei.jp/sell/gcg/card/gd04/10065,×,1 点,2026-11-18T08:04:15+07:00
+STOCK,GD04,GD04-052,R,ガンダムレオパルドデストロイ,7 点,8 点,https://yuyu-tei.jp/sell/gcg/card/gd04/10069,7 点,8 点,2026-11-18T08:04:15+07:00
+STOCK,GD04,GD04-068,R,シルヴァ・バレト,×,5 点,https://yuyu-tei.jp/sell/gcg/card/gd04/10089,×,5 点,2026-11-18T08:04:15+07:00
+STOCK,GD04,GD04-097,R,ロラン・セアック,5 点,4 点,https://yuyu-tei.jp/sell/gcg/card/gd04/10125,5 点,4 点,2026-11-18T08:04:15+07:00
+STOCK,GD04,GD04-077,C,フラット（ミリシャ仕様）,×,3 点,https://yuyu-tei.jp/sell/gcg/card/gd04/10100,×,3 点,2026-11-18T08:04:15+07:00
+STOCK,GD05,GD05-017,LR,νガンダム,8 点,◯,https://yuyu-tei.jp/sell/gcg/card/gd05/10024,8 点,◯,2026-11-18T08:04:15+07:00
+PRICE,GD05,GD05-018,LR,ガンダム・キャリバーン,180,220,https://yuyu-tei.jp/sell/gcg/card/gd05/10027,◯,◯,2026-11-18T08:04:15+07:00
+PRICE,GD05,GD05-089,LR,マスター・アジア,180,320,https://yuyu-tei.jp/sell/gcg/card/gd05/10129,◯,◯,2026-11-18T08:04:15+07:00
+STOCK,GD05,GD05-055,R+,デスティニーガンダム(パラレル),1 点,2 点,https://yuyu-tei.jp/sell/gcg/card/gd05/10084,1 点,2 点,2026-11-18T08:04:15+07:00
+STOCK,GD05,GD05-019,R,リ・ガズィ,5 点,×,https://yuyu-tei.jp/sell/gcg/card/gd05/10029,5 点,×,2026-11-18T08:04:15+07:00
+STOCK,GD05,GD05-093,R,シャア・アズナブル,5 点,8 点,https://yuyu-tei.jp/sell/gcg/card/gd05/10135,5 点,8 点,2026-11-18T08:04:15+07:00
+PRICE,GD05,GD05-129,R,アクシズ,220,180,https://yuyu-tei.jp/sell/gcg/card/gd05/10178,◯,◯,2026-11-18T08:04:15+07:00
+STOCK,GD05,ST07-009,SP,刹那・F・セイエイ(パラレル),6 点,×,https://yuyu-tei.jp/sell/gcg/card/gd05/10186,6 点,×,2026-11-18T08:04:15+07:00
+STOCK,GD05,GD05-059,LK,ガンダム・バルバトスルプス(パラレル),2 点,×,https://yuyu-tei.jp/sell/gcg/card/gd05/10089,2 点,×,2026-11-18T08:04:15+07:00
+STOCK,GD05,GD05-071,LK,ガンダムサンドロック改（EW版）(パラレル),5 点,1 点,https://yuyu-tei.jp/sell/gcg/card/gd05/10108,5 点,1 点,2026-11-18T08:04:15+07:00
+STOCK,PROMO_GD10,GD05-019,R+,リ・ガズィ(パラレル)(ショップバトル2026 SEASON4 優勝者パック),×,1 点,https://yuyu-tei.jp/sell/gcg/card/promo-gd10/10139,×,1 点,2026-11-18T08:04:15+07:00
+STOCK,PROMO_ST20,ST05-010,C,三日月・オーガス(Vジャンプ12月特大号付録),1 点,2 点,https://yuyu-tei.jp/sell/gcg/card/promo-st20/10016,1 点,2 点,2026-11-18T08:04:15+07:00
+STOCK,RP100,RP-050,P,リソース(ソレスタルビーイング),1 点,3 点,https://yuyu-tei.jp/sell/gcg/card/rp-100/10062,1 点,3 点,2026-11-18T08:04:15+07:00
+STOCK,RP100,RP-062,P,リソース(フリット＆ガンダムAGE-1 ノーマル),8 点,◯,https://yuyu-tei.jp/sell/gcg/card/rp-100/10050,8 点,◯,2026-11-18T08:04:15+07:00
+STOCK,RP100,RP-063,P,リソース(三日月＆ガンダム・バルバトス（第1形態）),×,2 点,https://yuyu-tei.jp/sell/gcg/card/rp-100/10051,×,2 点,2026-11-18T08:04:15+07:00
+STOCK,SC01,GD01-065,LR,フリーダムガンダム(SC01収録)(ノーマル仕様),6 点,◯,https://yuyu-tei.jp/sell/gcg/card/sc01/10027,6 点,◯,2026-11-18T08:04:15+07:00
+STOCK,SC01,GD02-055,LR,ガンダム・グシオンリベイク(SC01収録)(ノーマル仕様),×,7 点,https://yuyu-tei.jp/sell/gcg/card/sc01/10040,×,7 点,2026-11-18T08:04:15+07:00
+PRICE,SC01,ST04-001,LR,エールストライクガンダム(SC01収録)(ノーマル仕様),220,320,https://yuyu-tei.jp/sell/gcg/card/sc01/10010,◯,◯,2026-11-18T08:04:15+07:00
+STOCK,SC01,GD01-093,R,マリーダ・クルス(SC01収録)(ノーマル仕様),5 点,1 点,https://yuyu-tei.jp/sell/gcg/card/sc01/10032,5 点,1 点,2026-11-18T08:04:15+07:00
+STOCK,SC01,GD01-111,R,エースの戦い(SC01収録)(ノーマル仕様),4 点,×,https://yuyu-tei.jp/sell/gcg/card/sc01/10036,4 点,×,2026-11-18T08:04:15+07:00
+STOCK,SC01,GD01-008,U,ガンタンク(SC01収録),×,3 点,https://yuyu-tei.jp/sell/gcg/card/sc01/10020,×,3 点,2026-11-18T08:04:15+07:00
+STOCK,SC01,GD01-030,U,リック・ドム(SC01収録),2 点,6 点,https://yuyu-tei.jp/sell/gcg/card/sc01/10023,2 点,6 点,2026-11-18T08:04:15+07:00
+STOCK,SC01,GD01-100,U,覚悟の表れ(SC01収録),×,8 点,https://yuyu-tei.jp/sell/gcg/card/sc01/10034,×,8 点,2026-11-18T08:04:15+07:00
+STOCK,SC01,GD01-118,U,溢れる慈愛(SC01収録),1 点,◯,https://yuyu-tei.jp/sell/gcg/card/sc01/10037,1 点,◯,2026-11-18T08:04:15+07:00
+STOCK,SC01,GD01-086,C,ガンダム・ルブリス(SC01収録),×,8 点,https://yuyu-tei.jp/sell/gcg/card/sc01/10029,×,8 点,2026-11-18T08:04:15+07:00
+STOCK,ST01,ST01-001,LR,ガンダム(ST01収録),×,7 点,https://yuyu-tei.jp/sell/gcg/card/st01/10001,×,7 点,2026-11-18T08:04:15+07:00
+STOCK,ST04,ST04-006,LR+,イージスガンダム(パラレル),2 点,×,https://yuyu-tei.jp/sell/gcg/card/st04/10012,2 点,×,2026-11-18T08:04:15+07:00
+STOCK,ST05,ST05-001,LR+,ガンダム・バルバトス（第4形態）(パラレル),2 点,×,https://yuyu-tei.jp/sell/gcg/card/st05/10004,2 点,×,2026-11-18T08:04:15+07:00
+STOCK,ST05,ST01-014,C+,予期せぬ出来事(パラレル)(ST05収録),◯,4 点,https://yuyu-tei.jp/sell/gcg/card/st05/10002,◯,4 点,2026-11-18T08:04:15+07:00
+PRICE,ST05,ST05-004,C+,グレイズ改(パラレル),1280,1480,https://yuyu-tei.jp/sell/gcg/card/st05/10010,◯,◯,2026-11-18T08:04:15+07:00
+PRICE,ST05,ST05-015,C+,イサリビ(パラレル),580,680,https://yuyu-tei.jp/sell/gcg/card/st05/10032,◯,9 点,2026-11-18T08:04:15+07:00
+STOCK,ST11,ST11-009,C+,カプル(パラレル),×,1 点,https://yuyu-tei.jp/sell/gcg/card/st11/10018,×,1 点,2026-11-18T08:04:15+07:00
+STOCK,ST11,ST11-007,C,ガンダムレオパルド,4 点,×,https://yuyu-tei.jp/sell/gcg/card/st11/10013,4 点,×,2026-11-18T08:04:15+07:00
+STOCK,ST11,ST11-010,C,アビスガンダム,9 点,5 点,https://yuyu-tei.jp/sell/gcg/card/st11/10019,9 点,5 点,2026-11-18T08:04:15+07:00
+STOCK,ST11,ST11-013,C,迂闊な攻撃,◯,9 点,https://yuyu-tei.jp/sell/gcg/card/st11/10025,◯,9 点,2026-11-18T08:04:15+07:00
+STOCK,ST11,ST11-016,C,マッド・アングラー,3 点,×,https://yuyu-tei.jp/sell/gcg/card/st11/10031,3 点,×,2026-11-18T08:04:15+07:00
+STOCK,ST12,ST12-006,LR+,ユニコーンガンダム2号機 バンシィ（デストロイモード）(パラレル),2 点,×,https://yuyu-tei.jp/sell/gcg/card/st12/10012,2 点,×,2026-11-18T08:04:15+07:00
+STOCK,ST14,ST14-001,LR,ジ・O,8 点,6 点,https://yuyu-tei.jp/sell/gcg/card/st14/10001,8 点,6 点,2026-11-18T08:04:15+07:00
+STOCK,ST14,ST14-006,LR,フルアーマー・ユニコーンガンダム（デストロイモード）,5 点,3 点,https://yuyu-tei.jp/sell/gcg/card/st14/10011,5 点,3 点,2026-11-18T08:04:15+07:00
+STOCK,ST14,ST14-011,C+,パプテマス・シロッコ(パラレル),2 点,×,https://yuyu-tei.jp/sell/gcg/card/st14/10022,2 点,×,2026-11-18T08:04:15+07:00
+STOCK,GD06,GD06-049,LR+,ガンダム試作2号機(パラレル),×,1 点,https://yuyu-tei.jp/sell/gcg/card/gd06/10072,×,1 点,2026-11-18T08:04:15+07:00
+STOCK,GD06,GD06-051,LR+,GFreD(パラレル),4 点,6 点,https://yuyu-tei.jp/sell/gcg/card/gd06/10076,4 点,6 点,2026-11-18T08:04:15+07:00
+STOCK,GD06,GD06-001,LR,ガンダム試作1号機フルバーニアン,◯,6 点,https://yuyu-tei.jp/sell/gcg/card/gd06/10001,◯,6 点,2026-11-18T08:04:15+07:00
+STOCK,GD06,GD06-019,LR,ターンX,×,5 点,https://yuyu-tei.jp/sell/gcg/card/gd06/10028,×,5 点,2026-11-18T08:04:15+07:00
+STOCK,GD06,GD06-051,LR,GFreD,4 点,6 点,https://yuyu-tei.jp/sell/gcg/card/gd06/10075,4 点,6 点,2026-11-18T08:04:15+07:00
+STOCK,GD06,GD06-064,LR,アルトロンガンダム（EW版）,5 点,6 点,https://yuyu-tei.jp/sell/gcg/card/gd06/10093,5 点,6 点,2026-11-18T08:04:15+07:00
+STOCK,GD06,GD06-004,R+,ガンダム試作1号機(パラレル),3 点,×,https://yuyu-tei.jp/sell/gcg/card/gd06/10009,3 点,×,2026-11-18T08:04:15+07:00
+STOCK,GD06,GD06-005,R+,アカツキ（シラヌイ）(パラレル),2 点,3 点,https://yuyu-tei.jp/sell/gcg/card/gd06/10011,2 点,3 点,2026-11-18T08:04:15+07:00
+STOCK,GD06,GD06-020,R+,ハンマ・ハンマ(パラレル),2 点,×,https://yuyu-tei.jp/sell/gcg/card/gd06/10031,2 点,×,2026-11-18T08:04:15+07:00
+STOCK,GD06,GD06-081,R+,アマテ・ユズリハ（マチュ）(パラレル),2 点,3 点,https://yuyu-tei.jp/sell/gcg/card/gd06/10119,2 点,3 点,2026-11-18T08:04:15+07:00
+STOCK,GD06,GD06-097,R+,ハリー・オード(パラレル),×,1 点,https://yuyu-tei.jp/sell/gcg/card/gd06/10140,×,1 点,2026-11-18T08:04:15+07:00
+STOCK,GD06,GD06-053,R,エグザベ専用ギャン（ハクジ装備）（GQ）,1 点,2 点,https://yuyu-tei.jp/sell/gcg/card/gd06/10079,1 点,2 点,2026-11-18T08:04:15+07:00
+STOCK,GD06,GD06-110,R,家族愛,×,2 点,https://yuyu-tei.jp/sell/gcg/card/gd06/10154,×,2 点,2026-11-18T08:04:15+07:00
+STOCK,GD06,GD06-025,U,リ・ガズィ,×,2 点,https://yuyu-tei.jp/sell/gcg/card/gd06/10038,×,2 点,2026-11-18T08:04:15+07:00
+STOCK,GD06,GD06-016,C,ドムトルーパー,8 点,◯,https://yuyu-tei.jp/sell/gcg/card/gd06/10024,8 点,◯,2026-11-18T08:04:15+07:00
+STOCK,GD06,GD06-036,LK,ガンダム・ヴィダール(パラレル),4 点,×,https://yuyu-tei.jp/sell/gcg/card/gd06/10055,4 点,×,2026-11-18T08:04:15+07:00
+STOCK,GD06,GD06-040,LK,ガンダムMk-II(パラレル),6 点,7 点,https://yuyu-tei.jp/sell/gcg/card/gd06/10062,6 点,7 点,2026-11-18T08:04:15+07:00
+STOCK,GD06,GD06-054,LK,GFreD(パラレル),2 点,3 点,https://yuyu-tei.jp/sell/gcg/card/gd06/10082,2 点,3 点,2026-11-18T08:04:15+07:00
+STOCK,GD06,GD06-055,LK,ガンダム試作2号機(パラレル),7 点,6 点,https://yuyu-tei.jp/sell/gcg/card/gd06/10084,7 点,6 点,2026-11-18T08:04:15+07:00
+PRICE,LIMITED1,ST01-001,LR+,ガンダム(パラレル)(リミテッドBOX Ver.β収録),198000,158000,https://yuyu-tei.jp/sell/gcg/card/limited1.0/10002,×,×,2026-11-18T08:04:15+07:00
+PRICE,LIMITED1,ST04-001,LR+,エールストライクガンダム(パラレル)(リミテッドBOX Ver.β収録),178000,148000,https://yuyu-tei.jp/sell/gcg/card/limited1.0/10028,×,×,2026-11-18T08:04:15+07:00
+STOCK,LIMITED1,ST02-001,LR,ウイングガンダム(リミテッドBOX Ver.β収録),4 点,×,https://yuyu-tei.jp/sell/gcg/card/limited1.0/10014,4 点,×,2026-11-18T08:04:15+07:00
+PRICE,LIMITED1,GD01-026,R+,ザクII（シャア・アズナブル機）(パラレル)(リミテッドBOX Ver.β収録),128000,108000,https://yuyu-tei.jp/sell/gcg/card/limited1.0/10045,×,×,2026-11-18T08:04:15+07:00
+PRICE,LIMITED1,GD01-070,R+,ガンダム・エアリアル(パラレル)(リミテッドBOX Ver.β収録),398000,298000,https://yuyu-tei.jp/sell/gcg/card/limited1.0/10054,×,×,2026-11-18T08:04:15+07:00
+PRICE,LIMITED1,GD01-088,U+,バナージ・リンクス(パラレル)(リミテッドBOX Ver.β収録),118000,99800,https://yuyu-tei.jp/sell/gcg/card/limited1.0/10061,1 点,1 点,2026-11-18T08:04:15+07:00
+PRICE,LIMITED1,GD01-100,U+,覚悟の表れ(パラレル)(リミテッドBOX Ver.β収録),138000,118000,https://yuyu-tei.jp/sell/gcg/card/limited1.0/10067,1 点,1 点,2026-11-18T08:04:15+07:00
+PRICE,LIMITED1,GD01-118,U+,溢れる慈愛(パラレル)(リミテッドBOX Ver.β収録),498000,398000,https://yuyu-tei.jp/sell/gcg/card/limited1.0/10073,1 点,1 点,2026-11-18T08:04:15+07:00
+PRICE,LIMITED1,ST01-011,C+,スレッタ・マーキュリー(パラレル)(リミテッドBOX Ver.β収録),148000,128000,https://yuyu-tei.jp/sell/gcg/card/limited1.0/10009,×,×,2026-11-18T08:04:15+07:00
+PRICE,LIMITED1,ST03-011,C+,シャア・アズナブル(パラレル)(リミテッドBOX Ver.β収録),99800,79800,https://yuyu-tei.jp/sell/gcg/card/limited1.0/10025,×,×,2026-11-18T08:04:15+07:00
